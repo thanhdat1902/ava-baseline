@@ -1,0 +1,4 @@
+VERSION: 2
+MODEL:
+  BACKBONE:
+    NAME: "build_resnet_backbone"
